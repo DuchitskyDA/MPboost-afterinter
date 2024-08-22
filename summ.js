@@ -9,6 +9,7 @@ function summ(arg) {
     return increase;
   };
 
+
   return increase;
 }
 

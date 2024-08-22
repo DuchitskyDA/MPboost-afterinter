@@ -8,6 +8,7 @@ new Promise(resolve => {
     // 2 микро
 }).then(() => console.log(2));
 
+
 // макро
 setTimeout(() => console.log(3), 0);
 

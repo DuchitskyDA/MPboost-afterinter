@@ -6,6 +6,7 @@
 //     })
 // };
 
+
  const sendRequest = async id => {
     try {
         const { item } = await api.getItem(id);
